@@ -12,8 +12,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.kk.nlp.Interfaces.IXML_Item;
-
 /**
  * @author Kaushal Kathwadia
  *
