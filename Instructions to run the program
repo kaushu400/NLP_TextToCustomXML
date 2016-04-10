@@ -1,3 +1,11 @@
 Run main method of MainParentStructure class for the execution of the program.
-Input file location: src/nlp_data/nlp_data.txt
+Input file location: src/nlp_data/nlp_data.txt, src/nlp_data/NER.txt
+
 Output file location: src/output/fullXML.xml
+
+Please Note:  The named entities mentioned in the NER.txt file are broken down furter by words instead of phrases.  For example, "Ernst Haeckel"
+named entity is broken down into "Ernst" and "Haeckel".  So if the input text file have either word anywhere in the text, it will be 
+identified as a namedEntity.  
+
+This program will eventually fail as the input data gets largers, this can be avoided by introducing a database and storing the data in the db instead
+of ArrayLists (datastructure).
