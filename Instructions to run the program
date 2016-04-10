@@ -1,0 +1,3 @@
+Run main method of MainParentStructure class for the execution of the program.
+Input file location: src/nlp_data/nlp_data.txt
+Output file location: src/output/fullXML.xml
