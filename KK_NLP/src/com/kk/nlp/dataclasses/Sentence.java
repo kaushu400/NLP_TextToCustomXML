@@ -4,7 +4,6 @@
 package com.kk.nlp.dataclasses;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 import com.kk.nlp.Interfaces.IXML_Item;
 
